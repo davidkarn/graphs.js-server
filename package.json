@@ -1,0 +1,24 @@
+{
+  "name": "graphs.js-server",
+  "version": "0.0.0",
+  "description": "nodejs package for running a server to update graphs.js graphs in realtime using websockets",
+  "main": "graphs.js",
+    "dependencies": ["socket.io"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/davidkarn/graphs.js-server/"
+  },
+  "keywords": [
+    "graphs",
+    "js",
+    "charts",
+    "socket",
+    "websocket",
+    "d3"
+  ],
+  "author": "David Karn",
+  "license": "MIT"
+}
