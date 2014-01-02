@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "nodejs package for running a server to update graphs.js graphs in realtime using websockets",
   "main": "graphs.js",
-    "dependencies": ["socket.io"],
+    "dependencies": ["engine.io"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
